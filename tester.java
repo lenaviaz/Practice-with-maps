@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/**
+/****
  * @author Lena Viazmitinov 7/8/20
  * tester.java 
  * driver code
